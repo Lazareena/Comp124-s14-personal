@@ -14,10 +14,10 @@ public class Palindrome extends ConsoleProgram {
             String pal = readLine("Enter word that might be Palindrome (or quit to stop)?");
 
            if (isPalindrome(pal)== true){
-               println(pal + "" + "is a palindrome");
+               println(pal + " " + "is a palindrome");
            }
             else if (isPalindrome(pal)==false){
-               println(pal + "" + "is not a palindrome");
+               println(pal + " " + "is not a palindrome");
            }
             if(pal.equals("quit")){
                 break;
