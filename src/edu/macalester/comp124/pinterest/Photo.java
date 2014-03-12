@@ -40,15 +40,6 @@ public class Photo extends GraphicsProgram {
         Circles h = new Circles(3,3);
         add(h, (getWidth()*3.1)/4 , (getHeight()*7)/8);
 
-
-//        Rectangles i = new Rectangles(200, 100);
-//        add(i, ((getWidth()-i.getWidth())*3)/4, ((getHeight()-i.getWidth())*1)/4);
-//
-//        Rectangles j = new Rectangles(200, 100);
-//        add(j, ((getWidth()-j.getWidth())*3.5)/4, ((getHeight()-j.getWidth())*1.5)/4);
-//
-//        Rectangles k = new Rectangles(200, 100);
-//        add(k, ((getWidth()-j.getWidth())*3.5)/4, ((getHeight()-j.getWidth())*1.5)/4);
     }
 
 }

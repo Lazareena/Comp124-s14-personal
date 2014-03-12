@@ -21,14 +21,5 @@ public class Triangles extends GCompound {
         triangle.setFilled(true);
         add(triangle);
 
-
-//        GObject manyTriangles[] = new GObject[5];
-//        int a = 72;
-//        for(int i= 0; i< 5; i++){
-//            manyTriangles[i].setRotation(a);
-//            a+=72;
-//            add(manyTriangles[5]);
-//        }
-
     }
 }

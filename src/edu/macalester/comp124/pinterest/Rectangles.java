@@ -28,15 +28,6 @@ public class Rectangles extends GCompound{
             if (index==23){
                 break;
             }
-//            if (i==0) {
-//                add(manyRect[0], 0, 0);
-//            } else if (i==1) {
-//                add(manyRect[1], width*3, 0);
-//            } else if (i==2) {
-//                add(manyRect[2], width*2.5, -height/2);
-//            } else if (i==3) {
-//                add(manyRect[3], width*2.0, -height);
-//            }
 
 
         }
